@@ -1,4 +1,4 @@
-gsap.to("img",{
+gsap.to(".spongebob",{
     scale:2,
     duration:3,
     repeat:-1,
