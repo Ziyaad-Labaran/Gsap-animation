@@ -10,7 +10,6 @@ gsap.to(".spongebob",{
 gsap.to('.football',{
     scale:2,
     duration:1,
-    // repeat:-1,
     yoyo:true,
 
     onComplete: ()=>{
@@ -22,6 +21,7 @@ gsap.to('.football',{
         y:300,
         repeat:-1,
         yoyo:true,
+        scale:3,
      })
     }
         
