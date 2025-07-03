@@ -16,7 +16,7 @@ gsap.to('.football',{
     onComplete: ()=>{
      gsap.fromTo('.football',{
         x:200,
-        y:500,
+        y:400,
         opacity:0,
      },{
         x:-50,
