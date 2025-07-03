@@ -6,3 +6,11 @@ gsap.to(".spongebob",{
     rotation:360,
     x: 400,
 })
+
+gsap.to(".football",{
+    scale:2,
+    duration:1,
+    repeat:-1,
+    yoyo:true,
+    
+})
