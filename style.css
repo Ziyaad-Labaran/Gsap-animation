@@ -8,5 +8,10 @@ background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 23
 .spongebob{
     position: relative;
     top: 20rem;
+    left: 20rem;
+}
+.football{
+ position: relative;
+    top: 1rem;
     left: 10rem;
 }
