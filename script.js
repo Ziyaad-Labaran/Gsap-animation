@@ -18,7 +18,7 @@ gsap.to('.football',{
         x:400,
         y:200,
      },{
-        x:100,
+        x:-100,
         y:300,
         repeat:-1,
         yoyo:true,
